@@ -1,4 +1,4 @@
-FROM minio
+FROM minio/minio
 
 EXPOSE 9000
 EXPOSE 9001
